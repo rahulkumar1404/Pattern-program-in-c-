@@ -9,3 +9,7 @@ Pattern for number triangle
 pattern3 increasing numbers with rows  triangle.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/160752339-eb9d5879-5381-4aa7-a387-36c07c5135d6.png)
+
+pattern4 reverse increasing numbers with rows  triangle.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/160753275-862c9af1-35e8-493f-b631-b2bf4aaea6eb.png)
