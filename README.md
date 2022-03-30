@@ -17,3 +17,7 @@ pattern4 reverse increasing numbers with rows  triangle.cpp
 pattern5 reverse increasing numbers with rows of char  triangle.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/160754172-9a9a4441-d290-4424-a0ff-b13019f23eb7.png)
+
+pattern 6
+
+![image](https://user-images.githubusercontent.com/84653100/160755297-8aedb159-dcb6-4d4a-b052-ce0859c6b744.png)
