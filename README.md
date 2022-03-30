@@ -29,3 +29,7 @@ pattern 7
 pattern 8
 
 ![image](https://user-images.githubusercontent.com/84653100/160759736-48b7daae-9f03-4cd4-8d09-7f10caf5c882.png)
+
+pattern 9
+
+![image](https://user-images.githubusercontent.com/84653100/160761777-6f0656eb-3258-465a-b53a-25c355f60e85.png)
