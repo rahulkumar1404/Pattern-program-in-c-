@@ -23,4 +23,9 @@ pattern 6
 ![image](https://user-images.githubusercontent.com/84653100/160755390-c5ae692e-1201-42a0-aebd-d71e6652e2ed.png)
 
 pattern 7
+
 ![image](https://user-images.githubusercontent.com/84653100/160759315-65177c58-5571-4f91-be14-2c2cf0013b6e.png)
+
+pattern 8
+
+![image](https://user-images.githubusercontent.com/84653100/160759736-48b7daae-9f03-4cd4-8d09-7f10caf5c882.png)
