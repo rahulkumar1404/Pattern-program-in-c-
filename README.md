@@ -20,4 +20,4 @@ pattern5 reverse increasing numbers with rows of char  triangle.cpp
 
 pattern 6
 
-![image](https://user-images.githubusercontent.com/84653100/160755297-8aedb159-dcb6-4d4a-b052-ce0859c6b744.png)
+![image](https://user-images.githubusercontent.com/84653100/160755390-c5ae692e-1201-42a0-aebd-d71e6652e2ed.png)
