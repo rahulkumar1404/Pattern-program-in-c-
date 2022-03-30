@@ -33,3 +33,7 @@ pattern 8
 pattern 9
 
 ![image](https://user-images.githubusercontent.com/84653100/160761777-6f0656eb-3258-465a-b53a-25c355f60e85.png)
+
+pattern 10 Dabang pattern
+
+![image](https://user-images.githubusercontent.com/84653100/160766996-ed2f8b39-7ae3-47a5-a5dd-65336daa2e93.png)
