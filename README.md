@@ -21,3 +21,6 @@ pattern5 reverse increasing numbers with rows of char  triangle.cpp
 pattern 6
 
 ![image](https://user-images.githubusercontent.com/84653100/160755390-c5ae692e-1201-42a0-aebd-d71e6652e2ed.png)
+
+pattern 7
+![image](https://user-images.githubusercontent.com/84653100/160759315-65177c58-5571-4f91-be14-2c2cf0013b6e.png)
